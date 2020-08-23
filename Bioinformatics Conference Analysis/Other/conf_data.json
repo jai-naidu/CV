@@ -1,0 +1,28 @@
+[
+    {
+      "conf": [
+        "ISMB",
+        "ISMB-ECCB"
+      ]
+    },
+    {
+        "conf": [
+          "PSB"
+        ]
+      },
+      {
+        "conf": [
+          "RECOMB"
+        ]
+      },
+      {
+        "conf": [
+          "ECCB"
+        ]
+      },
+      {
+        "conf": [
+          "BCB"
+        ]
+      }
+]
