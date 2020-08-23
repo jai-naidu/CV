@@ -1,3 +1,5 @@
+How to use the exCELlence software:
+
 ==================RUNNING AN ANIMATION=====================
 
 To start an animation the following must be done:
