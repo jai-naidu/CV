@@ -1,0 +1,33 @@
+canvas 500 500 500 500
+shape rect2 rectangle red
+shape el1 ellipse green
+
+shape rect4 rectangle red
+shape el3 ellipse green
+
+shape rect6 rectangle red
+shape el5 ellipse green
+
+shape s ellipse red
+shape r rectangle green
+
+motion rect1 1  250 250 50 100 0 0  0 0    100  250 250 50 100 0 0  0 720
+motion rect2 1  260 250 50 100 255 0 0 0    100  260 250 50 100 255 0  0 720
+motion el1 1  250 250 50 100 0 255 0 0    100  250 250 50 100 0 255  0 720
+motion el2 1  240 250 50 100 0 0 255 0    100  240 250 50 100 0 0  255 720
+
+motion rect3 1  50 250 50 100 0 0  0 0    100  50 250 50 100 0 0  0 720
+motion rect4 1  50 260 50 100 255 0 0 0    100  50 260 50 100 255 0  0 720
+motion el3 1  50 250 50 100 0 255 0 0    100  50 250 50 100 0 255  0 720
+motion el4 1  60 250 50 100 0 0 255 0    100  60 250 50 100 0 0  255 720
+
+motion rect5 1  50 50 50 100 0 0  0 0    100  50 50 50 100 0 0  0 720
+motion rect6 1  50 60 50 100 255 0 0 0    100  50 60 50 100 255 0  0 720
+motion el5 1  50 50 50 100 0 255 0 0    100  50 50 50 100 0 255  0 720
+motion el6 1  60 50 50 100 0 0 255 0    100  60 50 50 100 0 0  255 720
+
+motion s 1  0 0 50 40 200 200 60 50    150 400 400 50 15 200 150 85 800
+motion r 1  400 0 50 40 200 50 200 50    150 0 400 50 15 200 150 85 800
+
+
+

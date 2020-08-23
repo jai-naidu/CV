@@ -1,0 +1,78 @@
+<svg width="500" height="500" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect x="200.0" y="200.0" width="50.0" height="100.0" fill="rgb(255,0,0)" visibility="visible" opacity="0">
+
+<animate attributeType="xml" begin="33ms" dur="3300ms" attributeName="opacity" from="1" to="1"/>
+<animate attributeType="xml" begin="33.333333333333336ms" dur="300.0ms" attributeName="x" from="200.0" to="200.0" />
+<animate attributeType="xml" begin="33.333333333333336ms" dur="300.0ms" attributeName="y" from="200.0" to="200.0" />
+<animate attributeType="xml" begin="33.333333333333336ms" dur="300.0ms" attributeName="width" from="50.0" to="50.0" />
+<animate attributeType="xml" begin="33.333333333333336ms" dur="300.0ms" attributeName="height" from="100.0" to="100.0" />
+<animate attributeType="xml" begin="33.333333333333336ms" dur="300.0ms" attributeName="fill" from="rgb(255,0,0)" to="rgb(255,0,0)" />
+
+<animate attributeType="xml" begin="333.3333333333333ms" dur="1333.3333740234375ms" attributeName="x" from="200.0" to="300.0" />
+<animate attributeType="xml" begin="333.3333333333333ms" dur="1333.3333740234375ms" attributeName="y" from="200.0" to="300.0" />
+<animate attributeType="xml" begin="333.3333333333333ms" dur="1333.3333740234375ms" attributeName="width" from="50.0" to="50.0" />
+<animate attributeType="xml" begin="333.3333333333333ms" dur="1333.3333740234375ms" attributeName="height" from="100.0" to="100.0" />
+<animate attributeType="xml" begin="333.3333333333333ms" dur="1333.3333740234375ms" attributeName="fill" from="rgb(255,0,0)" to="rgb(255,0,0)" />
+
+<animate attributeType="xml" begin="1666.6666666666667ms" dur="33.33333206176758ms" attributeName="x" from="300.0" to="300.0" />
+<animate attributeType="xml" begin="1666.6666666666667ms" dur="33.33333206176758ms" attributeName="y" from="300.0" to="300.0" />
+<animate attributeType="xml" begin="1666.6666666666667ms" dur="33.33333206176758ms" attributeName="width" from="50.0" to="50.0" />
+<animate attributeType="xml" begin="1666.6666666666667ms" dur="33.33333206176758ms" attributeName="height" from="100.0" to="100.0" />
+<animate attributeType="xml" begin="1666.6666666666667ms" dur="33.33333206176758ms" attributeName="fill" from="rgb(255,0,0)" to="rgb(255,0,0)" />
+
+<animate attributeType="xml" begin="1700.0ms" dur="633.3333129882812ms" attributeName="x" from="300.0" to="300.0" />
+<animate attributeType="xml" begin="1700.0ms" dur="633.3333129882812ms" attributeName="y" from="300.0" to="300.0" />
+<animate attributeType="xml" begin="1700.0ms" dur="633.3333129882812ms" attributeName="width" from="50.0" to="25.0" />
+<animate attributeType="xml" begin="1700.0ms" dur="633.3333129882812ms" attributeName="height" from="100.0" to="100.0" />
+<animate attributeType="xml" begin="1700.0ms" dur="633.3333129882812ms" attributeName="fill" from="rgb(255,0,0)" to="rgb(255,0,0)" />
+
+<animate attributeType="xml" begin="2333.3333333333335ms" dur="1000.0ms" attributeName="x" from="300.0" to="200.0" />
+<animate attributeType="xml" begin="2333.3333333333335ms" dur="1000.0ms" attributeName="y" from="300.0" to="200.0" />
+<animate attributeType="xml" begin="2333.3333333333335ms" dur="1000.0ms" attributeName="width" from="25.0" to="25.0" />
+<animate attributeType="xml" begin="2333.3333333333335ms" dur="1000.0ms" attributeName="height" from="100.0" to="100.0" />
+<animate attributeType="xml" begin="2333.3333333333335ms" dur="1000.0ms" attributeName="fill" from="rgb(255,0,0)" to="rgb(255,0,0)" />
+
+</rect>
+
+<ellipse cx="440.0" cy="70.0" rx="60.0" ry="30.0" fill="rgb(0,0,255)" visibility="visible" opacity="0">
+
+<animate attributeType="xml" begin="200ms" dur="3800ms" attributeName="opacity" from="1" to="1"/>
+<animate attributeType="xml" begin="200.0ms" dur="466.6666564941406ms" attributeName="cx" from="440.0" to="440.0" />
+<animate attributeType="xml" begin="200.0ms" dur="466.6666564941406ms" attributeName="cy" from="70.0" to="70.0" />
+<animate attributeType="xml" begin="200.0ms" dur="466.6666564941406ms" attributeName="rx" from="60.0" to="60.0" />
+<animate attributeType="xml" begin="200.0ms" dur="466.6666564941406ms" attributeName="ry" from="30.0" to="30.0" />
+<animate attributeType="xml" begin="200.0ms" dur="466.6666564941406ms" attributeName="fill" from="rgb(0,0,255)" to="rgb(0,0,255)" />
+
+<animate attributeType="xml" begin="666.6666666666666ms" dur="1000.0ms" attributeName="cx" from="440.0" to="440.0" />
+<animate attributeType="xml" begin="666.6666666666666ms" dur="1000.0ms" attributeName="cy" from="70.0" to="250.0" />
+<animate attributeType="xml" begin="666.6666666666666ms" dur="1000.0ms" attributeName="rx" from="60.0" to="60.0" />
+<animate attributeType="xml" begin="666.6666666666666ms" dur="1000.0ms" attributeName="ry" from="30.0" to="30.0" />
+<animate attributeType="xml" begin="666.6666666666666ms" dur="1000.0ms" attributeName="fill" from="rgb(0,0,255)" to="rgb(0,0,255)" />
+
+<animate attributeType="xml" begin="1666.6666666666667ms" dur="666.6666870117188ms" attributeName="cx" from="440.0" to="440.0" />
+<animate attributeType="xml" begin="1666.6666666666667ms" dur="666.6666870117188ms" attributeName="cy" from="250.0" to="370.0" />
+<animate attributeType="xml" begin="1666.6666666666667ms" dur="666.6666870117188ms" attributeName="rx" from="60.0" to="60.0" />
+<animate attributeType="xml" begin="1666.6666666666667ms" dur="666.6666870117188ms" attributeName="ry" from="30.0" to="30.0" />
+<animate attributeType="xml" begin="1666.6666666666667ms" dur="666.6666870117188ms" attributeName="fill" from="rgb(0,0,255)" to="rgb(0,170,85)" />
+
+<animate attributeType="xml" begin="2333.3333333333335ms" dur="333.3333435058594ms" attributeName="cx" from="440.0" to="440.0" />
+<animate attributeType="xml" begin="2333.3333333333335ms" dur="333.3333435058594ms" attributeName="cy" from="370.0" to="370.0" />
+<animate attributeType="xml" begin="2333.3333333333335ms" dur="333.3333435058594ms" attributeName="rx" from="60.0" to="60.0" />
+<animate attributeType="xml" begin="2333.3333333333335ms" dur="333.3333435058594ms" attributeName="ry" from="30.0" to="30.0" />
+<animate attributeType="xml" begin="2333.3333333333335ms" dur="333.3333435058594ms" attributeName="fill" from="rgb(0,170,85)" to="rgb(0,255,0)" />
+
+<animate attributeType="xml" begin="2666.6666666666665ms" dur="666.6666870117188ms" attributeName="cx" from="440.0" to="440.0" />
+<animate attributeType="xml" begin="2666.6666666666665ms" dur="666.6666870117188ms" attributeName="cy" from="370.0" to="370.0" />
+<animate attributeType="xml" begin="2666.6666666666665ms" dur="666.6666870117188ms" attributeName="rx" from="60.0" to="60.0" />
+<animate attributeType="xml" begin="2666.6666666666665ms" dur="666.6666870117188ms" attributeName="ry" from="30.0" to="30.0" />
+<animate attributeType="xml" begin="2666.6666666666665ms" dur="666.6666870117188ms" attributeName="fill" from="rgb(0,255,0)" to="rgb(0,255,0)" />
+
+<animate attributeType="xml" begin="3333.3333333333335ms" dur="666.6666870117188ms" attributeName="cx" from="440.0" to="440.0" />
+<animate attributeType="xml" begin="3333.3333333333335ms" dur="666.6666870117188ms" attributeName="cy" from="370.0" to="370.0" />
+<animate attributeType="xml" begin="3333.3333333333335ms" dur="666.6666870117188ms" attributeName="rx" from="60.0" to="60.0" />
+<animate attributeType="xml" begin="3333.3333333333335ms" dur="666.6666870117188ms" attributeName="ry" from="30.0" to="30.0" />
+<animate attributeType="xml" begin="3333.3333333333335ms" dur="666.6666870117188ms" attributeName="fill" from="rgb(0,255,0)" to="rgb(0,255,0)" />
+<animateTransform attributeName="transform" attributeType="xml" begin="3333.3333333333335ms" type="rotate" from="0.0 440.0 370.0" to="500.0 440.0 370.0" dur="666.6666870117188ms" />
+</ellipse>
+
+</svg>
