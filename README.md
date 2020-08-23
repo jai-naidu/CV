@@ -17,7 +17,7 @@ I also had some time to learn about the t-SNE algorithm; a dimensionality reduct
 
 June 2019 - August 2018
 
-I had the opportunity to develop a CLI tool that streamlined the data ingestion process by allowing secure third-party access to backend datastores. This involed familiarizing myself with AWS and the S3 data storage service, libraries such as boto3 and argparse, authorization frameworks (OAuth2), and security protocols like HTTPS . The CLI tool was able to grant a third-party user with a token that allows very limited and secure access to modify Accolade's S3 data stores.
+I had the opportunity to develop a CLI tool that streamlined the data ingestion process by allowing secure third-party access to backend datastores. This involed familiarizing myself with AWS and the S3 data storage service, libraries such as boto3 and argparse, authorization frameworks (OAuth2), and security protocols like HTTPS . The CLI tool was able to grant a third-party user with a token that allows very limited and secure access to Accolade's S3 data stores to execute simple data management queries.
 
 # CEL Animation Software
 
