@@ -10,7 +10,7 @@ I was able to compare several popular bioinformatics conference citations datase
 
 t-SNE Modification
 
-I also had some time to learn about the t-SNE algorithm; a dimensionality reduction algorithm which maps multi-dimensional datasets to lower dimension (2D) visualizations. The intention of ths project was to modify/reimplment it with a different distance metric developed by the lab I  was working in. This involved the actual reimplentation and the development of my understanding of stochastic neighbor embedding.
+I also had some time to learn about the t-SNE algorithm; a dimensionality reduction algorithm which maps multi-dimensional datasets to lower dimension (2D) visualizations. The intention of ths project was to modify/reimplment it with a different distance metric developed by the lab I  was working in. This involved the actual reimplentation of the algorithm and the development of my understanding of stochastic neighbor embedding.
 
 # Software Developer Intern - Accolade Inc. (NASDAQ: ACCD)
 -code unavailable-
