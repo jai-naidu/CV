@@ -23,4 +23,4 @@ I had the opportunity to develop a CLI tool that streamlined the data ingestion 
 
 May 2020 - June 2020
 
-I developed a basic animation software that was capable of live editing (adding, deleting, moving, etc. objects), layer management, scrubbing, speed control, in-application visualization and exporting (to .SVG). Tweening and model-view-controller methodologies informed the design of the software. The program was fully unit tested using JUnit4.
+I developed a basic animation software that is capable of live editing (adding, deleting, moving, etc. objects), layer management, scrubbing, speed control, in-application visualization and exporting (to .SVG). Tweening and model-view-controller methodologies informed the design of the software. The program was fully unit tested using JUnit4.
