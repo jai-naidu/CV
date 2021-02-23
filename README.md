@@ -1,5 +1,12 @@
 # CV
 
+# Software Engineering Intern - Accolade Inc. (NASDAQ: ACCD)
+-code unavailable-
+
+September 2020 - December 2020
+
+In the fall of 2020 I had the opportunity to take on a larger role at Accolade. I developed a serverless application using the AWS suite (SAM, Lambda, CloudFormation, DynamoDB, S3, API Gateway and ES). With only some initial manual intervention (human security checks) the app was able to expose data normally stored in the backend to a customizable, transactionally accessible database and generate an API endpoint for ease of access. An app like this, while still requiring some finishing touches, speeds up the internal development proccesses greatly. The project drew a lot of attention and is likely to be implemented after a few more iterations.
+
 # Data Science Intern - Khoury College of Computer Science
 
 January 2019 - August 2019
@@ -15,7 +22,7 @@ I also had some time to learn about the t-SNE algorithm; a dimensionality reduct
 # Software Developer Intern - Accolade Inc. (NASDAQ: ACCD)
 -code unavailable-
 
-June 2019 - August 2018
+June 2019 - August 2019
 
 I had the opportunity to develop a CLI tool that streamlined the data ingestion process by allowing secure third-party access to backend datastores. This involed familiarizing myself with AWS and the S3 data storage service, libraries such as boto3 and argparse, authorization frameworks (OAuth2), and HTTPS protocols. The CLI tool was able to grant a third-party user with a token that allows very limited and secure access to Accolade's S3 data stores to execute simple data management queries.
 
