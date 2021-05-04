@@ -5,7 +5,7 @@
 
 September 2020 - December 2020
 
-In the fall of 2020 I had the opportunity to take on a larger role at Accolade. I developed a serverless application using the AWS suite (SAM, Lambda, CloudFormation, DynamoDB, S3, API Gateway and ES). With only some initial manual intervention (human security checks) the app was able to expose data normally stored in the backend to a customizable, transactionally accessible database and generate an API endpoint for ease of access. An app like this, while still requiring some finishing touches, speeds up the internal development proccesses greatly. The project drew a lot of attention and is likely to be implemented after a few more iterations.
+In the fall of 2020 I had the opportunity to take on a larger role at Accolade. I developed a serverless application using the AWS suite (SAM, Lambda, CloudFormation, DynamoDB, S3, API Gateway and ES). With only some initial manual intervention (human security checks), the app was able to expose data that is normally stored in the backend to a customizable (database type is variable on specification), transactionally accessible database and generate an API endpoint for ease of access. This tool, while still requiring some finishing touches, significantly speeds up the internal development proccess. I presented the project at an internal data conference and it was received well and garnered attention. Some executives and VP's showed interest and I would guess that the application will be taken further into the development cycle.
 
 # Data Science Intern - Khoury College of Computer Science
 
